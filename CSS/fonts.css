@@ -1,0 +1,13 @@
+@font-face{
+    font-family: livvic;
+    src: url('../webfonts/Livvic/Livvic-Regular.ttf');
+}
+/* Antonio font family*/
+@font-face{
+    font-family: Antonio;
+    src: url(../webfonts/Antonio/Antonio-VariableFont_wght.ttf);
+}
+@font-face{
+    font-family: pop;
+    src: url(../webfonts/Poppins/Poppins-Italic.ttf);
+}
